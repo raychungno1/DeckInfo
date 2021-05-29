@@ -5,6 +5,6 @@ Photoshop scripts that take Clash Royale deck link(s) and prepares sprites to be
 ## Deck Board
 ![Deck Board Example](https://github.com/raychungno1/DeckInfo/blob/main/images/da8.png)
 ## Deck Stats
-![Deck Board Example](https://github.com/raychungno1/DeckInfo/blob/main/images/da.png)
+![Deck Board Example](https://github.com/raychungno1/DeckInfo/blob/main/images/db.png)
 ## Deck Tips
 ![Deck Board Example](https://github.com/raychungno1/DeckInfo/blob/main/images/dct.png)
